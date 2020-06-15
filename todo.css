@@ -1,0 +1,91 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+    }
+    
+    .container {
+    background: #f6416c;
+    top: 30px;
+    margin: auto;
+    width: 380px;
+    border-radius: 15px;
+    padding-bottom: 20px;
+    position: relative;
+    }
+    
+    h1 {
+    margin-left: 120px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+    }
+    
+    .listInput {
+    margin-left: 45px; 
+    width: 200px;
+    height: 35px;
+    border-radius: 7px;
+    border: none;
+    font-size: 17px;
+    padding-left: 7px;
+    }
+    
+    .addButton {
+    width: 50px;  
+    height: 37px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    border-radius: 20%;
+    border: 1.5px solid white;
+    background: #f6416c;
+    position: absolute;
+    }
+    
+    .text {
+      width: 185px;
+      height: 25px;
+      outline: 2px;;
+      padding-left: 15px;
+      font-size: 20px;
+      background: #f6416c;
+      border-radius: 5px;
+      border: none;
+      margin-left: 27px;  
+      color: white;
+    }
+    
+    ul {
+    list-style-type: none;
+    }
+    
+    .checkbox {
+    width: 27px;
+    height: 27px;
+    margin-left: 5px;
+    margin-top: 10px;
+    position: absolute;
+    opacity: 0.6;
+    }
+    
+    button {
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    background: none;
+    border: none;  
+    }
+    
+    .countbox {
+    margin-left: 50px;
+    margin-top: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    }
+    
+    .finish{
+    text-decoration-line: line-through;
+    } 
+     
